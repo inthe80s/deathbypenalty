@@ -1,23 +1,16 @@
-
+<div align="center">
 <img width="1280" height="146" alt="image" src="https://github.com/user-attachments/assets/4665a481-9f08-4052-93c5-26938203f3dc" />
 
 ![](https://komarev.com/ghpvc/?username=lonely-lovee&label=subjects&base=20884&style=flat-square&color=891105)
 
-<img width="858" height="1162" alt="tumblr_1de7daab24aa99322b3c94a8e13ce5f1_5887d964_2048-removebg-preview (1)" src="https://github.com/user-attachments/assets/0b766ac4-13d1-4ffe-9c9f-1149fa1ae0ba" />
+<div align="center">
+<img width="768" height="432" alt="image" src="https://github.com/user-attachments/assets/7d425ee4-e479-4fdb-9552-7db397e2208c" />
 
 
+<div align="center">
 <img width="1280" height="146" alt="image" src="https://github.com/user-attachments/assets/4665a481-9f08-4052-93c5-26938203f3dc" />
-<!--
-**deathbypenalty/deathbypenalty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[ata](https://deathbypenalty.atabook.org/)
+[♡](https://github.com/itscalledstalking)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ᶦ ˡᵒᵛᵉ ʸᵒᵘ ᵇʳᵃᵈˡᵉʸᵎ
