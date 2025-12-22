@@ -1,5 +1,12 @@
-## Hi there 👋
 
+<img width="1280" height="146" alt="image" src="https://github.com/user-attachments/assets/4665a481-9f08-4052-93c5-26938203f3dc" />
+
+![](https://komarev.com/ghpvc/?username=lonely-lovee&label=subjects&base=20884&style=flat-square&color=891105)
+
+<img width="858" height="1162" alt="tumblr_1de7daab24aa99322b3c94a8e13ce5f1_5887d964_2048-removebg-preview (1)" src="https://github.com/user-attachments/assets/0b766ac4-13d1-4ffe-9c9f-1149fa1ae0ba" />
+
+
+<img width="1280" height="146" alt="image" src="https://github.com/user-attachments/assets/4665a481-9f08-4052-93c5-26938203f3dc" />
 <!--
 **deathbypenalty/deathbypenalty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
